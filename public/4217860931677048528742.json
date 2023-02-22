@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498997001280",
+    "project_id": "hello-neighbor-mcpe-bangsin",
+    "storage_bucket": "hello-neighbor-mcpe-bangsin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498997001280:android:1f7d9d46efa316623eb3a5",
+        "android_client_info": {
+          "package_name": "com.minecraft.helloneighborforminecraft.bangsindev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498997001280-43aa9sktan070uj5snb1j1sseoqs1ll9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-S7Rd8QpzWwZj6e99SpNrN9SGl-AAjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498997001280-43aa9sktan070uj5snb1j1sseoqs1ll9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
